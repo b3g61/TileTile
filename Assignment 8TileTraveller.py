@@ -8,7 +8,8 @@ W = "(W)est"
 move = ""
 x_start = 1
 y_start = 1
-
+####
+print("halló")
 
 def action(x):
     if x.upper() == "N":
